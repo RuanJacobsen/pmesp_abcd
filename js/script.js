@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
         banner.addEventListener('click', () => {
             // Verifica se é o banner correto para navegar
             if (index === 1) { // Index do banner que você quer vincular ao link
-                window.location.href = 'https://saghatz.github.io/concursos_pmesp/'; // Redireciona para o link
+                window.location.href = 'https://rare7.github.io/calculadora.morada/'; // Redireciona para o link
             }
         });
     });
